@@ -1,11 +1,17 @@
-## Hi there 👋
+## Blxnk | Cybersecurity & Software Development  
 
+### 🔍 About Me  
+Offensive security enthusiast with a focus on penetration testing, red teaming, and secure software development. Background in **algorithms, programming, and cybersecurity** with experience in **Delphi, C++, and AI development**. Passionate about ethical hacking, secure coding, and financial markets.  
 
-Here are some ideas to get you started:
+### 🛠️ Technical Focus  
+- **Penetration Testing** | Exploitation, Web App Security, Network Security  
+- **Secure Development** | AI-driven Applications, C++, Software Security  
+- **Financial Security** | Algorithmic Trading, Risk Analysis  
 
-- 🔭 I’m currently working on an ai app
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: jxtblv@Gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I am a mechanical workaholic
+### 📚 Current Learning  
+- Advanced **C++** for cybersecurity applications  
+- **Pentesting methodologies** (Web, Network, Cloud)  
+- **Forex & investment strategies** for financial growth  
 
+### 📫 Contact  
+📧 **Email:** jxtblv@gmail.com  
