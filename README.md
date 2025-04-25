@@ -14,4 +14,4 @@ Offensive security enthusiast with a focus on penetration testing, red teaming, 
 - **Forex & investment strategies** for financial growth  
 
 ### 📫 Contact  
-📧 **Email:** jxtblv@gmail.com  
+📧 **Email:** jxstblv@gmail.com  
